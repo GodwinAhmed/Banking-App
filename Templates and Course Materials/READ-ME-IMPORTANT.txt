@@ -1,0 +1,15 @@
+Hey there!
+
+We have three folders here:
+
+1. Django App Templates - This folder stores all the templates used in this course for different apps, such as userauths, core, account, etc.
+
+2. Main Templates - These are the raw templates. I've attached them in case you need to tweak the templates your own way instead of using the ones I provided in the "App Templates" folder.
+
+3. Assets - This is where all the images, CSS, JavaScript, and other materials for the course are stored.
+
+!!! IMPORTANT !!!
+
+We also have a boilerplate template:
+1. Open the boilerplate template.
+2. Read the "MUST-READ.md" file to get started using the boilerplate.
